@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Papa Daouda Samb
 
-<!--
-**Daoudasamb29/Daoudasamb29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Développeur Full Stack** — React · TypeScript · Node.js · Dakar, Sénégal 🇸🇳
 
-Here are some ideas to get you started:
+🚀 Je construis des applications utiles pour le marché sénégalais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack
+- **Front** : React, TypeScript, HTML/CSS
+- **Back** : Node.js, Express, APIs REST
+- **Outils** : Git/GitHub, GitHub Pages
+
+## 📌 Projets à découvrir
+- [Bureau-Eguette](https://github.com/Daoudasamb29/Bureau-Eguette) — gestion intelligente de restaurant
+- [Artisanpro](https://github.com/Daoudasamb29/Artisanpro) — gestion de devis pour artisans
+- [tech-store](https://github.com/Daoudasamb29/tech-store) — e-commerce Tech Store Sénégal
+- [DEM](https://github.com/Daoudasamb29/DEM) — transport inter-villes via WhatsApp
+
+🌐 Portfolio : https://daoudasamb29.github.io/Portfolio/
+📫 Contact : devosamb@gmail.com
